@@ -12,10 +12,10 @@
   <tr>
     <td width="70%" valign="top">
       <h3>🧑‍🎓 About me</h3>
-      <p>🎓 <b>Sophomore @ VNUHCM - University of Science (HCMUS)</b></p>
+      <p>🎓 <b>Sophomore in Information Technology @ VNUHCM - University of Science - (HCMUS)</b></p>
       <p>🌈 <b>Friendly & Sociable</b> | I'm an easygoing person who loves making new friends and sharing positive energy!</p>
       <p>🪴 <b>Chill Vibes Only</b> | Catch me 🍵 sipping tea, 🎧 vibing to music, or 🌿 tending to my plants.</p>
-      <p>💻 <b>Aspiring Backend Developer</b> | I'm striving to become a skilled backend developer to build solid systems.</p>
+      <p>💻 <b>Motto </b> | "I have no special talents. I am only passionately curious." -Albert Einstein-.</p>
       <p>💌 <b>Let's connect:</b> <a href="mailto:lequockhanh2006z@gmail.com">lequockhanh2006z@gmail.com</a></p>
     </td>
     <td align="center" valign="top">
