@@ -39,8 +39,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lqukhanh&show_icons=true&theme=tokyonight&border_radius=10" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lqukhanh&theme=tokyonight&border_radius=10" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lqukhanh&show_icons=true&theme=tokyonight&border_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lqukhanh&theme=tokyonight&border=ffffff&background=0D1117" height="150" />
 </p>
 
 <p align="center">
